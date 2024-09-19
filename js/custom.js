@@ -52,7 +52,7 @@ $(function () {
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 	
 	$(".brand-box").niceScroll({
-		cursorcolor:"#9b9b9c",
+		cursorcolor:"#5DAF42",
 	});	
 	
 	/* NiceSelect

@@ -357,13 +357,15 @@ button {
      color: #f57615;
      padding: 10px 0px;
      width: 100%;
+     font-weight: 700;
      max-width: 190px;
+     border-radius: 20px;
      text-align: center;
      display: inline-block;
 }
 
 .text-bg a:hover {
-     background-color: #000;
+     background-color: #000000;
      color: #fff;
 }
 
