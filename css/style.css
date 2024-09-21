@@ -483,8 +483,7 @@ button {
 }
 
 .About-sorbet .about_img figure img {
-     width: 80%;
-     height: 600px;
+     width: 100%;
 }
 
 .about_box {
@@ -539,28 +538,7 @@ button {
      display: flex;
      flex-wrap: wrap;
 }
-.Fall-card-juices{
-     width: 100%;
-     padding: 20px;
-     text-align: center;
-     display: flex;
-     flex-wrap: wrap;
-}
-.Fall-card-juices .juice-type{
-     width: 25%;
-     text-align: center;
-}
-.summer-card-juices{
-     width: 100%;
-     padding: 20px;
-     text-align: center;
-     display: flex;
-     flex-wrap: wrap;
-}
-.summer-card-juices .juice-type{
-     text-align: center;
-     width: 33%;
-}
+
 .juice-type{
      width: 350px;
      text-align: center;
