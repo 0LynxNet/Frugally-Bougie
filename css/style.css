@@ -459,7 +459,69 @@ button {
 
 
 /** end about section **/
+/** about section **/
 
+.padd_left0 {
+     padding-left: 0;
+}
+
+.About-sorbet {
+     background: white;
+     margin-top: 90px;
+     padding-bottom: 50px;
+}
+.About-sorbet .titlepage {
+     padding-bottom: 0;
+     text-align: left;
+}
+.yellow {
+     color: #DF3751;
+}
+
+.About-sorbet .about_img figure {
+     margin: 0;
+}
+
+.About-sorbet .about_img figure img {
+     width: 80%;
+     height: 600px;
+}
+
+.about_box {
+     width: 100%;
+     float: left;
+     max-width: 557px;
+     text-align: left;
+}
+
+.About-sorbet p {
+     color: #0c0f38;
+     font-size: 17px;
+     line-height: 38px;
+     font-weight: 600;
+     padding: 35px 0;
+}
+
+.About-sorbet a {
+     font-size: 16px;
+     background-color: #DF3751;
+     color: #fff;
+     padding: 10px 0px;
+     width: 100%;
+     max-width: 190px;
+     text-align: center;
+     display: inline-block;
+     font-weight: 400;
+     margin-top: 10px;
+}
+
+.About-sorbet a:hover {
+     background-color: #363635;
+     color: #fff;
+}
+
+
+/** end About-sorbet section **/
 
 /** manu section **/
 .title-manu{
@@ -477,8 +539,31 @@ button {
      display: flex;
      flex-wrap: wrap;
 }
+.Fall-card-juices{
+     width: 100%;
+     padding: 20px;
+     text-align: center;
+     display: flex;
+     flex-wrap: wrap;
+}
+.Fall-card-juices .juice-type{
+     width: 25%;
+     text-align: center;
+}
+.summer-card-juices{
+     width: 100%;
+     padding: 20px;
+     text-align: center;
+     display: flex;
+     flex-wrap: wrap;
+}
+.summer-card-juices .juice-type{
+     text-align: center;
+     width: 33%;
+}
 .juice-type{
      width: 350px;
+     text-align: center;
 }
 /** end manu section **/
 
