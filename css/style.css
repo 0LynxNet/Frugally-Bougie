@@ -543,6 +543,23 @@ button {
      width: 350px;
      text-align: center;
 }
+.juice-type P{
+     width: 90%;
+}
+.bottom-menu-text{
+     text-align: center;
+}
+.bottom-menu-text h1{
+     padding-bottom: 20px;
+}
+.bottom-menu-text a{
+     background-color: #000;
+     padding:10px 25px 10px 25px;
+     font-size: 16px;
+     color: white;
+     border-radius: 10px;
+     margin: 10px;
+}
 /** end manu section **/
 
 
